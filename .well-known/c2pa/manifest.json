@@ -1,6 +1,6 @@
 {
   "$schema": "https://c2pa.org",
-  "domain": "://jacekjozefowicz.com",
+  "domain": "provenance.jacekjozefowicz.com",
   "identities": [
     {
       "type": "dns",
@@ -8,6 +8,6 @@
     }
   ],
   "certificates": [
-    "https://://jacekjozefowicz.com/.well-known/c2pa/certificate_chain.pem"
+    "https://jacekjozefowicz.com"
   ]
 }
