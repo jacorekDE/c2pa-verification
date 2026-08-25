@@ -1,0 +1,13 @@
+{
+  "$schema": "https://c2pa.org",
+  "domain": "danishendurance.com",
+  "identities": [
+    {
+      "type": "dns",
+      "selector": "c2pa"
+    }
+  ],
+  "certificates": [
+    "https://danishendurance.com"
+  ]
+}
