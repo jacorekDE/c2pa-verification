@@ -1,6 +1,6 @@
 {
   "$schema": "https://c2pa.org",
-  "domain": "danishendurance.com",
+  "domain": "jacekjozefowicz.com",
   "identities": [
     {
       "type": "dns",
@@ -8,6 +8,6 @@
     }
   ],
   "certificates": [
-    "https://danishendurance.com"
+    "https://jacekjozefowicz.com"
   ]
 }
